@@ -1,0 +1,101 @@
+supplier_id,name,country,reliability_score,lead_time_days
+1,Hampton-Romero,Mexico,0.965,14
+2,Reynolds Inc,India,0.947,13
+3,Andersen-Steele,Germany,0.83,11
+4,Smith-Hanson,India,0.728,6
+5,White-Bennett,India,0.808,7
+6,Sexton PLC,China,0.894,12
+7,Allen-Bailey,Germany,0.893,5
+8,Griffin-Sawyer,Germany,0.871,10
+9,"Wall, Hammond and Thompson",Germany,0.78,13
+10,Cantu PLC,India,0.863,10
+11,Vaughn-Smith,Mexico,0.811,8
+12,"Hernandez, Brooks and Carter",Germany,0.982,7
+13,Adams-Hanson,India,0.946,12
+14,"Orr, Snyder and Joyce",China,0.909,11
+15,"Jimenez, Lee and Atkinson",Mexico,0.768,9
+16,"Anderson, Richards and Black",China,0.774,13
+17,"King, Meyer and Diaz",Mexico,0.712,13
+18,"Hawkins, Anderson and Hess",India,0.906,15
+19,"Acosta, Murray and Graham",USA,0.732,12
+20,Williams-Wong,Mexico,0.827,10
+21,Moore-Rodgers,China,0.758,10
+22,Austin-Lucero,India,0.96,5
+23,"Padilla, Steele and Reynolds",Mexico,0.838,10
+24,"Hammond, Flores and Cooper",USA,0.863,10
+25,"Moore, Green and Smith",USA,0.902,6
+26,Reid Inc,Germany,0.74,10
+27,"Hughes, Hicks and Martin",Germany,0.875,14
+28,Ali Ltd,China,0.857,8
+29,"Boyd, Davis and Harris",Mexico,0.759,7
+30,"Harris, Anderson and Brown",Mexico,0.973,13
+31,"Taylor, Norton and Curtis",Germany,0.874,12
+32,Edwards-Garcia,Mexico,0.901,19
+33,Ramirez and Sons,Mexico,0.955,6
+34,Gomez PLC,USA,0.881,12
+35,"Byrd, Lawrence and Zamora",Germany,0.786,11
+36,"Fisher, Shepherd and Reeves",India,0.731,10
+37,Harrison and Sons,Germany,0.832,13
+38,Lee-Heath,India,0.763,10
+39,Smith-Flores,USA,0.821,5
+40,Maynard-Bell,China,0.956,7
+41,"Garza, Jones and Taylor",Mexico,0.794,14
+42,Keith-Archer,USA,0.735,14
+43,Crawford Group,Mexico,0.803,9
+44,Weaver Inc,China,0.963,12
+45,Simmons Inc,China,0.779,18
+46,"Johnson, Watson and Ford",USA,0.888,10
+47,Huff-Berger,China,0.7,10
+48,Wilkinson-Collins,India,0.802,11
+49,"Hutchinson, Hernandez and Sosa",China,0.788,12
+50,"Baker, Sanchez and Castaneda",Mexico,0.748,9
+51,Santos PLC,Mexico,0.855,12
+52,Johnson Group,Mexico,0.841,5
+53,"Lee, Brown and Roberts",Mexico,0.901,11
+54,Ramos Group,India,0.778,10
+55,Martin and Sons,Germany,0.771,9
+56,Atkinson-Wilcox,USA,0.749,9
+57,Hines-Beck,Mexico,0.763,8
+58,"Ramirez, Gardner and Smith",China,0.862,8
+59,Morris LLC,Mexico,0.817,5
+60,Rodriguez Inc,China,0.719,9
+61,Gonzalez LLC,China,0.774,13
+62,Wolfe Ltd,Mexico,0.772,9
+63,Shields LLC,India,0.902,12
+64,Rodriguez Ltd,China,0.907,7
+65,"Lewis, Brown and Robinson",China,0.743,6
+66,Dunlap-Bell,Mexico,0.989,8
+67,Farmer-Ashley,China,0.777,7
+68,Dunn-Clark,China,0.983,6
+69,"Ward, Winters and Hall",Mexico,0.819,11
+70,Newman PLC,Mexico,0.71,15
+71,Meyers Ltd,USA,0.8,8
+72,Daniel-Thomas,India,0.884,5
+73,"Phillips, Keller and Hansen",India,0.897,12
+74,Murray-Nelson,China,0.854,6
+75,Dunn Ltd,India,0.83,6
+76,House LLC,China,0.86,11
+77,Trujillo Ltd,USA,0.872,10
+78,Nichols-Smith,Mexico,0.723,8
+79,Hudson Group,Mexico,0.807,10
+80,"Robinson, Liu and Hurley",Mexico,0.77,9
+81,Blair Ltd,India,0.933,16
+82,"Williams, Cervantes and Henry",USA,0.836,8
+83,Campbell Inc,India,0.985,7
+84,Wright PLC,India,0.816,9
+85,"Hunt, Sandoval and Hunt",USA,0.937,9
+86,"Owens, Garcia and Hayes",USA,0.932,12
+87,Murphy LLC,USA,0.744,5
+88,Marshall Ltd,USA,0.847,11
+89,Graham-Davila,Mexico,0.902,8
+90,Lee-Moore,Germany,0.949,12
+91,"Hale, Colon and Simmons",Germany,0.795,10
+92,Martinez Group,USA,0.764,12
+93,Owen LLC,Germany,0.906,9
+94,"Mcdaniel, Hawkins and Roberts",Germany,0.935,11
+95,Blake LLC,USA,0.801,15
+96,"Weber, Murphy and Keith",Germany,0.728,8
+97,Ford LLC,India,0.973,10
+98,Cox-Williamson,China,0.815,9
+99,"Brown, Nelson and Hayes",China,0.85,15
+100,Grimes Ltd,USA,0.943,9
